@@ -6,7 +6,7 @@
 
 
 # About me 👨🏾‍💻
-I’m Kingsley Nwoye, a Lead Software Engineer with over five years of experience in creating and managing the design and structure of software solutions. My job is to understand what the business needs, work through technical challenges, and make sure the software meets user expectations. I carefully choose the right tools, frameworks, and methods to build software that is scalable, secure, reliable, and easy to maintain. With experience in various programming languages and leading teams, I focus on developing both front-end and back-end systems that improve user experience and help businesses succeed.
+I’m Kingsley Nwoye, a Lead Software Engineer with a strong background in creating and managing the design and structure of software solutions. My job is to understand what the business needs, work through technical challenges, and make sure the software meets user expectations. I carefully choose the right tools, frameworks, and methods to build software that is scalable, secure, reliable, and easy to maintain. With experience in various programming languages and leading teams, I focus on developing both front-end and back-end systems that improve user experience and help businesses succeed.
 
 Founder of [Range Universe](https://www.rangeuniverse.org) Platform that enables people to excel in tech, whether through learning digital skills or building digital products that make our lives easier and better.
 

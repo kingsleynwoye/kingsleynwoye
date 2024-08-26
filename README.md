@@ -6,7 +6,7 @@
 
 
 # About me 👨🏾‍💻
-I am seasoned Lead Software Engineer Intern, I brings a wealth of experience in developing robust software solutions and articulating complex technical concepts. With a strong foundation in multiple programming languages and a flair for leading cross functional teams, I excels in architecting front end and back end systems that enhance user experience and operational efficiency.
+I am seasoned Lead Software Engineer, I brings a wealth of experience in developing robust software solutions and articulating complex technical concepts. With a strong foundation in multiple programming languages and a flair for leading cross functional teams, I excels in architecting front end and back end systems that enhance user experience and operational efficiency.
 
 My strategic approach to software engineering, coupled with a commitment to innovation and excellence, positions me as a valuable asset to any organization seeking senior-level expertise. The internet is my fun place and my oyster. You’ll always find me contributing my knowledge, skills, and experience to developing projects that make our lives easier and better.
 

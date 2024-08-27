@@ -1,5 +1,5 @@
 
-![ezgif com-gif-maker (6)](https://media.licdn.com/dms/image/v2/D4D16AQEQoW8-Np2aFg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724690209519?e=1730332800&v=beta&t=8XHPxu-6FS7TlvPKzBGc9wolJRTlO7yiU83yLIrzNMs)
+![ezgif com-gif-maker (6)](https://media.licdn.com/dms/image/v2/D4D16AQEIEu6xLX2wtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724734367910?e=1730332800&v=beta&t=hrb0LwjNPB4Rvcg8eGjE_umCQf90abhbAyogDmTLO10)
 
 
 

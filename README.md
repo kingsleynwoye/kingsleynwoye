@@ -1,14 +1,12 @@
 
-![ezgif com-gif-maker (6)](https://media.licdn.com/dms/image/v2/D4D16AQEIEu6xLX2wtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724734367910?e=1730332800&v=beta&t=hrb0LwjNPB4Rvcg8eGjE_umCQf90abhbAyogDmTLO10)
+![ezgif com-gif-maker (6)]([https://media.licdn.com/dms/image/v2/D4D16AQEIEu6xLX2wtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724734367910?e=1730332800&v=beta&t=hrb0LwjNPB4Rvcg8eGjE_umCQf90abhbAyogDmTLO10](https://media.licdn.com/dms/image/v2/D4D16AQGoc6wKrMCyNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727463825091?e=1733356800&v=beta&t=fgbo0M9me733HxDiiWjtybfRRO6cUqAIr_ka5Ylg_ug))
 
 
 
 
 
 # About me 👨🏾‍💻
-I’m Kingsley Nwoye, a Lead Software Engineer with a strong background in creating and managing the design and structure of software solutions. My job is to understand what the business needs, work through technical challenges, and make sure the software meets user expectations. I carefully choose the right tools, frameworks, and methods to build software that is scalable, secure, reliable, and easy to maintain. With experience in various programming languages and leading teams, I focus on developing both front-end and back-end systems that improve user experience and help businesses succeed.
-
-Founder of [Range Universe](https://www.rangeuniverse.org) Platform that enables people to excel in tech, whether through learning digital skills or building digital products that make our lives easier and better.
+Kingsley Nwoye is a professional Software Engineer with more than 5 years of experience in the tech industry. He is the Founder & CEO of Range Universe, a platform that enables people to excel in tech, whether through learning digital skills or building digital products that make our lives easier and better.
 
 # Mission🛡
 - Passionate about making impact and solving real life problems with technology. 

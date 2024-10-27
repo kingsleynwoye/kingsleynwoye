@@ -1,6 +1,5 @@
 
-![ezgif com-gif-maker (6)]([[https://media.licdn.com/dms/image/v2/D4D16AQEIEu6xLX2wtQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724734367910?e=1730332800&v=beta&t=hrb0LwjNPB4Rvcg8eGjE_umCQf90abhbAyogDmTLO10](https://media.licdn.com/dms/image/v2/D4D16AQGoc6wKrMCyNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727463825091?e=1733356800&v=beta&t=fgbo0M9me733HxDiiWjtybfRRO6cUqAIr_ka5Ylg_ug](https://media.licdn.com/dms/image/v2/D4D16AQHyfIvh2lexZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729895766425?e=1735776000&v=beta&t=p4ve0g9iansQ27BZlTOadtDCXkBDoUq_SPEtxnLaEfQ)))
-
+![ezgif com-gif-maker (6)](https://media.licdn.com/dms/image/v2/D4D16AQHyfIvh2lexZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729895766425?e=1735776000&v=beta&t=p4ve0g9iansQ27BZlTOadtDCXkBDoUq_SPEtxnLaEfQ)
 
 
 

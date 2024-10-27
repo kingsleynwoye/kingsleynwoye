@@ -4,7 +4,7 @@
 
 
 
-# About me 👨🏾‍💻
+# About
 A seasoned software engineer with over 5 years of software development experience, I have mastered the craft of driving successful frontend development initiatives in cross-functional teams for digital products that have won the hearts of millions of users.
 
 I specialize in partnering with software leads to develop product strategy and vision, and I have a passion for being hands-on in helping teams deliver high-quality user experience solutions through a development process that includes research, prototyping, and iterative improvements.

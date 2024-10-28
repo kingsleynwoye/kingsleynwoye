@@ -13,10 +13,10 @@ In my past roles, I have been responsible for managing development operations pr
 
 When I'm not working on projects, I enjoy helping developers with portfolio feedback and career growth advice.
 
-# Mission🛡
+# Mission
 - To impact and solve real life problems with technology. 
 
-# Available For 🎙
+# Available For
 - Web Development
 - Mobile App Development
 - Software Development

@@ -5,13 +5,7 @@
 
 
 # About
-A seasoned software engineer with over 5 years of software development experience, I have mastered the craft of driving successful frontend development initiatives in cross-functional teams for digital products that have won the hearts of millions of users.
-
-I specialize in partnering with software leads to develop product strategy and vision, and I have a passion for being hands-on in helping teams deliver high-quality user experience solutions through a development process that includes research, prototyping, and iterative improvements.
-
-In my past roles, I have been responsible for managing development operations programs that improved collaboration between developers and product teams by optimizing processes, frameworks, and development standards.
-
-When I'm not working on projects, I enjoy helping developers with portfolio feedback and career growth advice.
+𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐚𝐧𝐝 𝐋𝐞𝐚𝐝𝐞𝐫 with a proven track record of building innovative products from the ground up. I have extensive experience leading cross-functional and remote teams at growth-stage companies. A strategic thinker who excels at simplifying complexity, I am passionate about coaching individuals and helping teams achieve meaningful, outsized outcomes. I value creativity and candor and firmly believe that everything worth doing is worth doing well.
 
 # Mission
 - To impact and solve real life problems with technology. 

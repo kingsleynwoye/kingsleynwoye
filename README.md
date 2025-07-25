@@ -5,7 +5,7 @@
 
 
 # About
-My name is Kingsley Nwoye, also known as KINGSGOLD. I am a creative thinker, software engineer and technology entrepreneur with over 5 years of experience in building and teaching in the tech space. I'm also the Founder & CEO of Range Universe, a technology company that enables people to excel in tech by solving real problems, addressing pain points, and helping them achieve their dreams.
+I am a creative thinker, software engineer and technology entrepreneur with over 5 years of experience in building and teaching in the tech space. I'm also the Founder & CEO of Range Universe, a technology company that enables people to excel in tech by solving real problems, addressing pain points, and helping them achieve their dreams.
 
 # Mission
 - To impact and solve real life problems with technology. 

@@ -5,7 +5,7 @@
 
 
 # About
-Kingsley Nwoye is a Software Engineer with over 5 years of experience in the tech space and the Founder & CEO of Range Universe, where he focuses on a customer-first approach to building the company. He engages directly with customers to gather feedback and refine the product, oversees public communications, and manages early-stage recruitment to ensure the team is aligned with the mission. His hands-on work with customers directly informs strategic decisions and helps shape the company culture.
+Kingsley Nwoye is a Software Engineer with over half a decade of experience in technology and agriculture. He is the Founder & CEO of Range Universe and Nature Ambience, where he focuses on a customer-first approach to building companies. He engages directly with customers to gather feedback and refine products, oversees public communications, and manages early-stage recruitment to ensure the team is aligned with the mission. His hands-on work with customers directly informs strategic decisions and helps shape company culture.
 
 # Mission
 - To impact and solve real life problems with technology. 

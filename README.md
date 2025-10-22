@@ -1,39 +1,50 @@
+# **About**
 
-![ezgif com-gif-maker (6)](https://media.licdn.com/dms/image/v2/D4D16AQGtFBBHWSUQCQ/profile-displaybackgroundimage-shrink_350_1400/B4DZg5CMiSGQAc-/0/1753303551258?e=1756339200&v=beta&t=2nney2sNDvVDE6-UDSWmgfr1l3BWXJM-tXyYRhyyb-w)
+Hello and welcome!
 
+My name is **Kingsley Nwoye**, and I am a **Software Engineer and Entrepreneur** with over half a decade of experience in technology. I’m the **Founder of Range Universe**, where I focus on a customer-first approach to building companies.
 
+I work closely with customers to gather feedback, refine products, oversee public communications, and manage early-stage recruitment to ensure the team stays aligned with the mission.
 
+Through my work, I provide professional services including **Web Development**, **Mobile App Development (Android & iOS)**, **Custom Software Development**, **Cloud Application Development**, **Cloud Management**, **Software Testing**, and **Web Design**.
 
-# About
-Hello and Welcome!
+My hands-on involvement with customers guides strategic decisions and helps shape a strong, value-driven company culture.
 
-My name is Kingsley Nwoye, and I am a Software Engineer and Entrepreneur with over half a decade of experience in technology. I’m the Founder of Range Universe, where I focus on a customer-first approach to building companies. I work closely with customers to gather feedback, refine products, oversee public communications, and manage early-stage recruitment to ensure the team remains aligned with the mission.
+📧 **Email:** [hello.kingsleynwoye001@gmail.com](mailto:hello.kingsleynwoye001@gmail.com)
+📞 **Phone:** +234 816 575 861
 
-Through my work, I provide a range of professional services, including Android and iOS Development, Web Development, Custom Software Development, Cloud Application Development, Cloud Management, Software Testing, and Web Design.
+---
 
-My direct involvement with customers guides strategic decisions and helps shape a strong, value-driven company culture.
+# **Mission**
 
-Feel free to send me a message if you need my services.
-📧 Email: hello.kingsleynwoye001@gmail.com
-📞 Phone: +234 816 575 861
+To impact lives and solve real-world problems through technology.
 
-# Mission
-- To impact and solve real life problems with technology.
+---
 
-# Projects
-- Range Universe | Excel in Tech
-- DiceSea | The Creative and Entertainment Platform
-- Staydeck | The Hosting and Booking Platform
-- TrustnFund | The Crowdfunding and Fundraising Platform
+# **Projects**
 
-# Available For
-- Web Development
-- Mobile App Development
-- Software Development
-- Blockchain Development
+* **[Range Universe](https://rangeuniverse.com)** – Empowering people to excel in tech through learning, real-world experience, and digital product building.
+* **[DiceSea](https://dicesea.com)** – A creative entertainment platform for art, games, sounds, and more.
+* **[Staydeck](https://staydeck.vercel.app)** – A hosting and booking platform designed for both short- and long-term rentals.
+* **[TrustnFund](https://trustnfund.vercel.app)** – A crowdfunding and fundraising platform that helps people raise funds transparently and securely.
 
-# Get in Touch 👍🏽
-🔗 [Linkedin](https://www.linkedin.com/in/kingsleynwoye/)
+---
 
-# Favorite Quote 📖
-> _The only way to achieve success is to help others get it first._
+# **Available For**
+
+* Web Development
+* Mobile App Development
+* Software Development
+* Blockchain Development
+
+---
+
+# **Get in Touch 👍🏽**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kingsleynwoye/)
+
+---
+
+# **Favorite Quote 📖**
+
+> The only way to achieve success is to help others get it first.

@@ -31,14 +31,9 @@ Feel free to send me a message if you need my services.
 - Mobile App Development
 - Software Development
 - Blockchain Development
-- [Others](https://www.kingsleynwoye.com)
 
 # Get in Touch 👍🏽
-🔗 [Telegram](https://t.me/kingsleynwoye)
-
 🔗 [Linkedin](https://www.linkedin.com/in/kingsleynwoye/)
-
-🔗 [Website](https://www.kingsleynwoye.com)
 
 # Favorite Quote 📖
 > _The only way to achieve success is to help others get it first._

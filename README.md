@@ -18,7 +18,13 @@ Feel free to send me a message if you need my services.
 📞 Phone: +234 816 575 861
 
 # Mission
-- To impact and solve real life problems with technology. 
+- To impact and solve real life problems with technology.
+
+# Projects
+- Range Universe | Excel in Tech
+- DiceSea | The Creative and Entertainment Platform
+- Staydeck | The Hosting and Booking Platform
+- TrustnFund | The Crowdfunding and Fundraising Platform
 
 # Available For
 - Web Development

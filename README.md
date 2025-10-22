@@ -5,7 +5,17 @@
 
 
 # About
-My name is Kingsley Nwoye and I am Software Engineer and Entrepreneur with over half a decade of experience in technology and agriculture. I’m also the Founder & CEO of Range Universe and Nature Ambience, where I focuses on a customer first approach to building companies. I engages directly with customers to gather feedback and refine products, oversees public communications, and manages early stage recruitment to ensure the team is aligned with the mission. I work with customers directly informs strategic decisions and helps shape company culture.
+Hello and Welcome!
+
+My name is Kingsley Nwoye, and I am a Software Engineer and Entrepreneur with over half a decade of experience in technology. I’m the Founder and CEO of Range Universe, where I focus on a customer-first approach to building companies. I work closely with customers to gather feedback, refine products, oversee public communications, and manage early-stage recruitment to ensure the team remains aligned with the mission.
+
+Through my work, I provide a range of professional services, including Android and iOS Development, Web Development, Custom Software Development, Cloud Application Development, Cloud Management, Software Testing, and Web Design.
+
+My direct involvement with customers guides strategic decisions and helps shape a strong, value-driven company culture.
+
+Feel free to send me a message if you need my services.
+📧 Email: hello.kingsleynwoye001@gmail.com
+📞 Phone: +234 816 575 861
 
 # Mission
 - To impact and solve real life problems with technology. 

@@ -33,9 +33,12 @@ To impact lives and solve real-world problems through technology.
 # **Available For**
 
 * Web Development
-* Mobile App Development
-* Software Development
-* Blockchain Development
+* Mobile App Development (Android & iOS)
+* Custom Software Development
+* Cloud Application Development
+* Cloud Management
+* Software Testing
+* Web Design
 
 ---
 

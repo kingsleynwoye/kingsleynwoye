@@ -42,12 +42,12 @@ To impact lives and solve real-world problems through technology.
 
 ---
 
-# **Get in Touch 👍🏽**
+# **Get in Touch**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kingsleynwoye/)
 
 ---
 
-# **Favorite Quote 📖**
+# **Favorite Quote**
 
 > The only way to achieve success is to help others get it first.

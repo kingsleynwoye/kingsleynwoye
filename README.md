@@ -23,11 +23,11 @@ To impact lives and solve real-world problems through technology.
 
 # **Projects**
 
-* **[Range Universe](https://rangeuniverse.vercel.app)** – Enabling people to excel in tech through learning, real-world experience, and digital product building.
+* **[Range Universe](https://rangeuniverse.vercel.app)** – Enabling people to excel in tech.
 * **[DiceSea](https://dicesea.vercel.app)** – A creative entertainment platform for art, games, sounds, and more.
 * **[Staydeck](https://staydeck.vercel.app)** – A hosting and booking platform designed for both short- and long-term rentals.
 * **[TrustnFund](https://trustnfund.vercel.app)** – A crowdfunding and fundraising platform that helps people raise funds transparently and securely.
-* **[Nature Ambience](https://natureambience.vercel.app)** – An agriculture company focused on healthy food and sustainable living.
+* **[Nature Ambience](https://natureambience.vercel.app)** – Growing more healthy food.
 
 ---
 

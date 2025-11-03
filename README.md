@@ -2,7 +2,7 @@
 
 Hello and welcome!
 
-My name is **Kingsley Nwoye**, and I am a **Software Engineer and Entrepreneur** with over half a decade of experience in technology. I’m the **Founder of Range Universe**, where I focus on a customer-first approach to building companies.
+My name is **Kingsley Nwoye**, and I am a **Software Engineer and Serial Entrepreneur** with over half a decade of experience in technology. I’m the **Founder of Range Universe**, where I focus on a customer-first approach to building companies.
 
 I work closely with customers to gather feedback, refine products, oversee public communications, and manage early-stage recruitment to ensure the team stays aligned with the mission.
 

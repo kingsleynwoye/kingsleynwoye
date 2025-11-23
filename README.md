@@ -1,14 +1,10 @@
 # **About**
 
-Hello and welcome!
+My name is Kingsley Nwoye. I am a Software Engineer and Serial Entrepreneur with a passion for building meaningful products that solve real human problems. Over the past few years, I have founded and developed multiple startups, including Range Universe, DiceSea, TrustnFund, Staydeck and Nature Ambience.
 
-My name is **Kingsley Nwoye**, and I am a **Software Engineer and Serial Entrepreneur** with over half a decade of experience in technology. I’m the **Founder of Range Universe**, where I focus on a customer-first approach to building companies.
+My work combines technical skill with a customer-first mindset. I spend time talking to real users, understanding their challenges and shaping solutions that create long-lasting impact. I also manage early-stage teams, lead product direction and handle communication to ensure every project stays aligned with its mission.
 
-I work closely with customers to gather feedback, refine products, oversee public communications, and manage early-stage recruitment to ensure the team stays aligned with the mission.
-
-Through my work, I provide professional services including **Web Development**, **Mobile App Development (Android & iOS)**, **Custom Software Development**, **Cloud Application Development**, **Cloud Management**, **Software Testing**, and **Web Design**.
-
-My hands-on involvement with customers guides strategic decisions and helps shape a strong, value-driven company culture.
+I am driven by innovation, learning and the belief that technology can change lives. Every product I build is a step toward that vision.
 
 📧 **Email:** [hello.kingsleynwoye001@gmail.com](mailto:hello.kingsleynwoye001@gmail.com)
 📞 **Phone:** +234 816 575 861

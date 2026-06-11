@@ -1,6 +1,6 @@
 # **About**
 
-My name is Kingsley Nwoye. I’m a Software Engineer focused on building products that solve real-world problems and enable people to excel in tech. I’m the founder of Range Universe and have worked on projects including DiceSea, TrustnFund, Staydeck, and Nature Ambience. My focus is on understanding users, building practical solutions, and turning ideas into impactful digital products.
+My name is Kingsley Nwoye. I’m a Software Engineer and Entrepreneur focused on building products that solve real-world problems. I’m the founder of Range Universe and have worked on projects including DiceSea, TrustnFund, Staydeck, and Nature Ambience. My focus is on understanding users, building practical solutions, and turning ideas into impactful digital products.
 
 📧 **Email:** [kingsley@rangeuniverse.org](mailto:kingsley@rangeuniverse.org)
 📞 **Phone:** +234 816 575 861
